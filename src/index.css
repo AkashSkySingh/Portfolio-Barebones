@@ -1,0 +1,7 @@
+/* Global styles import - ensures Vite includes this as an entry point */
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,500,600,700&display=swap");
+
+/* StyleX will extract these to stylex.css */
+:root {
+  --stylex-injection: 0;
+}

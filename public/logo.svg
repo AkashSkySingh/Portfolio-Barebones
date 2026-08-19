@@ -1,0 +1,14 @@
+<svg width='280' height='280' viewBox='0 0 280 280' xmlns='http://www.w3.org/2000/svg'>
+  <!-- Black circle background -->
+  <circle cx='140' cy='140' r='130' fill='#060606'/>
+  
+  <!-- Letter A -->
+  <text x='140' y='200' font-family='Tahoma, sans-serif' font-size='220' font-weight='600' text-anchor='middle' fill='#f9f9f9'>A</text>
+  
+ 
+  <!-- Diagonal line from bottom-left to top-right -->
+  <path d='M 130 200 L 180 230' stroke='#f9f9f9' stroke-width='10' stroke-linecap='round'/>
+  
+  <!-- Diagonal line from bottom-right to top-left -->
+  <path d='M 150 200 L 100 230' stroke='#f9f9f9' stroke-width='10' stroke-linecap='round'/>
+</svg>
